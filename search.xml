@@ -4,11 +4,24 @@
   
     
     <entry>
+      <title>ESRI ArcGIS Pro Maps</title>
+      <link href="/2022/12/25/Gallery/main/"/>
+      <url>/2022/12/25/Gallery/main/</url>
+      
+        <content type="html"><![CDATA[<h3 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h3><p>Gallaudet University is a private Federally Chartered University</p><ul><li>Established in 1857 with only twelve students</li><li>Emphasizes diversity among staff and students, including international students.</li></ul><p>Diversity has significantly increased at Gallaudet University over the years, with over 1,500 students pursuing degrees in various disciplines.</p><p>Our group were interested in learning more about Gallaudet Graduates regarding their home location and degrees obtained from Gallaudet University.</p><ul><li>Data were obtained from Gallaudet University Institutional Research.</li><li>Allowed us to dig deeper into the data uncovering some interesting facts about Gallaudet’s graduates.</li><li>This is a preliminary short-term research project for the course, and does not represent any official university research projects.</li></ul><p>The maps were created using ESRI ArcGIS Pro mapping software, which also allowed data visualization to highlight facts about Gallaudet graduates</p><p>Our data, spanning back to 2000 to 2022, is focused on the following:</p><ul><li>Home state (or country if applicable) of Gallaudet Graduates.</li><li>Population density of Gallaudet Students.</li><li>Showcasing the map of U.S. in regard to Deaf schools (Daytime &amp; Resident-based schools).</li><li>Data for international students’ home schools were not available.</li><li>Highlighting the difference between Females and Males Graduates obtaining a degree from Gallaudet University on the global map.</li><li>Showcasing countries on a global scale in regard to type of degree obtained at Gallaudet University.</li></ul><h3 id="GIS-Maps"><a href="#GIS-Maps" class="headerlink" title="GIS Maps"></a>GIS Maps</h3><div class="fj-gallery"><p><img src="/images/gis-map/World-map.jpeg" title=" "><br><img src="/images/gis-map/home-states.jpeg" title=" "><br><img src="/images/gis-map/heatmap.jpeg" title=" "><br><img src="/images/gis-map/heatmap-with-schools.jpeg" title=" "><br><img src="/images/gis-map/gender-pie-map.jpeg" title=" "><br><img src="/images/gis-map/degrees-pie-map.jpeg" title=" "><br><img src="/images/gis-map/dots-map.jpeg" title=" "><br><img src="/images/gis-map/dots-map-DMV.jpeg" title=" "></p>          </div><h3 id="Conclusion"><a href="#Conclusion" class="headerlink" title="Conclusion"></a>Conclusion</h3><p>Preliminary and proof-of-concept data analysis indicates that student diversity at Gallaudet University is healthy and possibly expanding.<br>Student population density is more pronounced and visible on the East Coast compared to West Coast, likely due to:</p><ul><li>Smaller state sizes.</li><li>Large population centers.</li><li>Higher number of deaf residential-based and daytime schools.</li><li>Gallaudet University likely have had a role in creation of deaf communities along the East Coast over time.</li></ul><p>Closing of Deaf residential schools for the Deaf</p><ul><li>Likely have no impact on the student diversity and enrollment at Gallaudet University.</li></ul><p>Formal researches is recommended:</p><ul><li>To determine the impacts of schools for the Deaf closing on university enrollments.</li><li>To study the student populations across the U.S. and identify any possible recruiting gaps.</li></ul>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Welcome!</title>
       <link href="/2022/12/21/WelcomePage/"/>
       <url>/2022/12/21/WelcomePage/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to my blog, my name is Zehui, and I am a senior at Gallaudet University majoring in IT. This is simply a personal blog where I could share my acquired knowledge and experiences through completing college assignments and discovering many other new things online. I will upload some more articles and useful information periodically. I hope you enjoy it!</p><div class="tabs" id="test4"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#test4-1">Accessibility</button></li><li class="tab"><button type="button" data-href="#test4-2">Algorithm</button></li><li class="tab"><button type="button" data-href="#test4-3">STM403</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="test4-1"><p><strong>tab 名字為第一個 Tab</strong></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="test4-2"><p><strong>只有圖標 沒有 Tab 名字</strong></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="test4-3"><p><strong>名字+icon</strong></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div><p>You might want to do a quick search with in just few keywords. To do that, find a <b>magnifying-glass icon</b> from the <b>top left corner of the navigation bar</b> then you can find whatever you like.</p><p><img src="/images/Logo/search-icon.jpg"></p>]]></content>
+        <content type="html"><![CDATA[<p>Welcome to my blog, my name is Zehui. Currently I am a senior student at Gallaudet University majoring in IT. This is just a very simple blog where I could share my knowledges and experiences through completing college assignments and discovering many other new things online. I will upload some articles and useful information contents periodically. I hope you enjoy it!</p><p>You might want to do a quick search with in just few keywords to find your desired information. To do that, find a <b>magnifying-glass icon</b> on the <b>top left corner of the navigation bar.</b></p><p><img src="/images/Logo/search-icon.jpg"></p>]]></content>
       
       
       
@@ -100,31 +113,6 @@
     
     
     <entry>
-      <title>Graduate School/Job Application</title>
-      <link href="/2022/12/14/STM403/GraduateSchoolApplication/"/>
-      <url>/2022/12/14/STM403/GraduateSchoolApplication/</url>
-      
-        <content type="html"><![CDATA[<h3 id="Cover-Letter"><a href="#Cover-Letter" class="headerlink" title="Cover Letter"></a>Cover Letter</h3><p>Interviewer Name<br>800 Florida Ave NE<br>Washington, D.C 20002<br>202-456-7890</p><p>Dear xxx,</p><p>I’m excited to apply for the intern technician position posted on Indeed.com as a semester term intern of the work done by the team at REU AICT. As a BS in Information Technology student at Gallaudet University, I’m confident that my diverse knowledge, experience in coding and problem solving, and meticulous attention to detail will make me an asset to the intern and class/personal project teamwork.</p><p>I assisted several more students in classes and on social media platforms such as StackoverFlow and Github. I was in charge of troubleshooting a wide range of technical issues for others, assisting with unexpected system errors, and installing a wide range of equipment. I was also constantly looking for new ways to learn new skills and gain experience by participating in various activities with people from all walks of life. With these kinds of experiences, I was able to adapt my approach to various problems and situations from various backgrounds, as well as their critical-thinking and ideas that differed from mine.</p><p>I also understand that [Company name] is looking for more interns and experienced employees to help with their production needs. The position of IT technician at [Company’s name] would be an exciting opportunity for me to apply my educational background and learn more about a growing industry.</p><p>I’ve attached my resume, which goes over my skills and educational background in greater detail. If you have any questions about my background and experiences, don’t be hesitate to contact me. Thank you very much for your consideration and time.</p><p>Sincerely.<br>Zehui Liu</p><h3 id="Job-Listing-and-Background-Research"><a href="#Job-Listing-and-Background-Research" class="headerlink" title="Job Listing and Background Research"></a>Job Listing and Background Research</h3><p>Interesting Job Position:</p><ol><li>Summer Technology Internship -Cooperate by GEICO at Chevy Chase, MD:</li><li>IT Systems Specialist Central Office located at Montgomery County Public Schools at Rockville, MD</li><li>Entry Level Developers locate at Mclean, VA of Diamond Pick Company</li><li>US Army Information Technology Specialist (FT) by Goarmy.com Spring Recruiting Center located at Silver Spring, MD</li><li>Entry Level Amazon Connect Engineer by Amazon at Bethesda, MD</li><li>Technical Analyst Internship/Entry Level by CGI Group, INC located at Fairfax, VA</li><li>Operational Compputer Systems Analyst (System Administrator) by National Security Agent located at Fort Meade, MD</li><li>IT Help Desk Analyst by Northern Virginia Community College located at Fairfax County, VA</li><li>Cyber Security Engineer, Enter Level by CGI Group, Inc located at Fairfax, VA</li><li>10 week Intern Program by USPS, work cross-functionally on projects, remotely.</li></ol><p>Summer Technology Internship -Cooperate by GEICO at Chevy Chase, MD:<br>GEICO is an insurance company, and its most popular insurance is auto insurance. With excellent customer service, GEICO has become one of the most popular and favorite insurance companies in the United States, as well as mine. I’ve had a lot of help from the agent with my vehicle issues over the last three years, So I’d like to take advantage of this opportunity to gain experience with their business management system and see how they could use it to serve people so that I can understand work as an entry level or internship developer.<br>A 10-week term internship during the summer of 2023, with the opportunity to take a quick look and view their professional technology solutions management by specialists mentoring and coaching. Individual and team assignments provide an excellent opportunity to develop and gain business-standard technical and project management experience, as well as communication skills. The qualifications are slightly higher than for other intern positions. It did require a cumulative GPA of at least 3.5, as well as the upload of my transcript for verification. Following the coursework, a fundamental understanding of some of the languages such as Java, .NET C#, or related work from a personal/past experience project is required.</p><h3 id="Resume"><a href="#Resume" class="headerlink" title="Resume"></a>Resume</h3><p>/&gt;</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> STM403 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Articles </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>University Mobile Exercise App and Leisure Time Exercise Activity, A Light-Weight Development of the App Concept Design and Evaluation</title>
       <link href="/2022/12/14/STM403/FinalPaper/"/>
       <url>/2022/12/14/STM403/FinalPaper/</url>
@@ -144,6 +132,31 @@
             <tag> Articles </tag>
             
             <tag> Mobile Application </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Graduate School/Job Application</title>
+      <link href="/2022/12/14/STM403/GraduateSchoolApplication/"/>
+      <url>/2022/12/14/STM403/GraduateSchoolApplication/</url>
+      
+        <content type="html"><![CDATA[<h3 id="Cover-Letter"><a href="#Cover-Letter" class="headerlink" title="Cover Letter"></a>Cover Letter</h3><p>Interviewer Name<br>800 Florida Ave NE<br>Washington, D.C 20002<br>202-456-7890</p><p>Dear xxx,</p><p>I’m excited to apply for the intern technician position posted on Indeed.com as a semester term intern of the work done by the team at REU AICT. As a BS in Information Technology student at Gallaudet University, I’m confident that my diverse knowledge, experience in coding and problem solving, and meticulous attention to detail will make me an asset to the intern and class/personal project teamwork.</p><p>I assisted several more students in classes and on social media platforms such as StackoverFlow and Github. I was in charge of troubleshooting a wide range of technical issues for others, assisting with unexpected system errors, and installing a wide range of equipment. I was also constantly looking for new ways to learn new skills and gain experience by participating in various activities with people from all walks of life. With these kinds of experiences, I was able to adapt my approach to various problems and situations from various backgrounds, as well as their critical-thinking and ideas that differed from mine.</p><p>I also understand that [Company name] is looking for more interns and experienced employees to help with their production needs. The position of IT technician at [Company’s name] would be an exciting opportunity for me to apply my educational background and learn more about a growing industry.</p><p>I’ve attached my resume, which goes over my skills and educational background in greater detail. If you have any questions about my background and experiences, don’t be hesitate to contact me. Thank you very much for your consideration and time.</p><p>Sincerely.<br>Zehui Liu</p><h3 id="Job-Listing-and-Background-Research"><a href="#Job-Listing-and-Background-Research" class="headerlink" title="Job Listing and Background Research"></a>Job Listing and Background Research</h3><p>Interesting Job Position:</p><ol><li>Summer Technology Internship -Cooperate by GEICO at Chevy Chase, MD:</li><li>IT Systems Specialist Central Office located at Montgomery County Public Schools at Rockville, MD</li><li>Entry Level Developers locate at Mclean, VA of Diamond Pick Company</li><li>US Army Information Technology Specialist (FT) by Goarmy.com Spring Recruiting Center located at Silver Spring, MD</li><li>Entry Level Amazon Connect Engineer by Amazon at Bethesda, MD</li><li>Technical Analyst Internship/Entry Level by CGI Group, INC located at Fairfax, VA</li><li>Operational Compputer Systems Analyst (System Administrator) by National Security Agent located at Fort Meade, MD</li><li>IT Help Desk Analyst by Northern Virginia Community College located at Fairfax County, VA</li><li>Cyber Security Engineer, Enter Level by CGI Group, Inc located at Fairfax, VA</li><li>10 week Intern Program by USPS, work cross-functionally on projects, remotely.</li></ol><p>Summer Technology Internship -Cooperate by GEICO at Chevy Chase, MD:<br>GEICO is an insurance company, and its most popular insurance is auto insurance. With excellent customer service, GEICO has become one of the most popular and favorite insurance companies in the United States, as well as mine. I’ve had a lot of help from the agent with my vehicle issues over the last three years, So I’d like to take advantage of this opportunity to gain experience with their business management system and see how they could use it to serve people so that I can understand work as an entry level or internship developer.<br>A 10-week term internship during the summer of 2023, with the opportunity to take a quick look and view their professional technology solutions management by specialists mentoring and coaching. Individual and team assignments provide an excellent opportunity to develop and gain business-standard technical and project management experience, as well as communication skills. The qualifications are slightly higher than for other intern positions. It did require a cumulative GPA of at least 3.5, as well as the upload of my transcript for verification. Following the coursework, a fundamental understanding of some of the languages such as Java, .NET C#, or related work from a personal/past experience project is required.</p><h3 id="Resume"><a href="#Resume" class="headerlink" title="Resume"></a>Resume</h3><p>/&gt;</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> STM403 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Articles </tag>
             
         </tags>
       
@@ -364,33 +377,6 @@
     
     
     <entry>
-      <title>Closed Interpreting Accessibility Poster</title>
-      <link href="/2022/07/21/REU/Poster/"/>
-      <url>/2022/07/21/REU/Poster/</url>
-      
-        <content type="html"><![CDATA[<p><img src="/images/REU_CIA/CIA_Poster.jpg"></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> Accessibility Research </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> PPT Slides </tag>
-            
-            <tag> REU </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Closed Interpreting Accessibility</title>
       <link href="/2022/07/21/REU/FinalPaper/"/>
       <url>/2022/07/21/REU/FinalPaper/</url>
@@ -409,9 +395,36 @@
             
             <tag> Articles </tag>
             
+            <tag> Web Development </tag>
+            
             <tag> REU </tag>
             
-            <tag> Web Development </tag>
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Closed Interpreting Accessibility Poster</title>
+      <link href="/2022/07/21/REU/Poster/"/>
+      <url>/2022/07/21/REU/Poster/</url>
+      
+        <content type="html"><![CDATA[<p><img src="/images/REU_CIA/CIA_Poster.jpg"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Accessibility Research </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> REU </tag>
+            
+            <tag> PPT Slides </tag>
             
         </tags>
       
