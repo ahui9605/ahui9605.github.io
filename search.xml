@@ -5,8 +5,8 @@
     
     <entry>
       <title>ESRI ArcGIS Pro Maps</title>
-      <link href="/2022/12/25/Gallery/main/"/>
-      <url>/2022/12/25/Gallery/main/</url>
+      <link href="/2022/12/25/GIS-MAP/esri-gis-map/"/>
+      <url>/2022/12/25/GIS-MAP/esri-gis-map/</url>
       
         <content type="html"><![CDATA[<h3 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h3><p>Gallaudet University is a private Federally Chartered University</p><ul><li>Established in 1857 with only twelve students</li><li>Emphasizes diversity among staff and students, including international students.</li></ul><p>Diversity has significantly increased at Gallaudet University over the years, with over 1,500 students pursuing degrees in various disciplines.</p><p>Our group were interested in learning more about Gallaudet Graduates regarding their home location and degrees obtained from Gallaudet University.</p><ul><li>Data were obtained from Gallaudet University Institutional Research.</li><li>Allowed us to dig deeper into the data uncovering some interesting facts about Gallaudet’s graduates.</li><li>This is a preliminary short-term research project for the course, and does not represent any official university research projects.</li></ul><p>The maps were created using ESRI ArcGIS Pro mapping software, which also allowed data visualization to highlight facts about Gallaudet graduates</p><p>Our data, spanning back to 2000 to 2022, is focused on the following:</p><ul><li>Home state (or country if applicable) of Gallaudet Graduates.</li><li>Population density of Gallaudet Students.</li><li>Showcasing the map of U.S. in regard to Deaf schools (Daytime &amp; Resident-based schools).</li><li>Data for international students’ home schools were not available.</li><li>Highlighting the difference between Females and Males Graduates obtaining a degree from Gallaudet University on the global map.</li><li>Showcasing countries on a global scale in regard to type of degree obtained at Gallaudet University.</li></ul><h3 id="GIS-Maps"><a href="#GIS-Maps" class="headerlink" title="GIS Maps"></a>GIS Maps</h3><div class="fj-gallery"><p><img src="/images/gis-map/World-map.jpeg" title=" "><br><img src="/images/gis-map/home-states.jpeg" title=" "><br><img src="/images/gis-map/heatmap.jpeg" title=" "><br><img src="/images/gis-map/heatmap-with-schools.jpeg" title=" "><br><img src="/images/gis-map/gender-pie-map.jpeg" title=" "><br><img src="/images/gis-map/degrees-pie-map.jpeg" title=" "><br><img src="/images/gis-map/dots-map.jpeg" title=" "><br><img src="/images/gis-map/dots-map-DMV.jpeg" title=" "></p>          </div><h3 id="Conclusion"><a href="#Conclusion" class="headerlink" title="Conclusion"></a>Conclusion</h3><p>Preliminary and proof-of-concept data analysis indicates that student diversity at Gallaudet University is healthy and possibly expanding.<br>Student population density is more pronounced and visible on the East Coast compared to West Coast, likely due to:</p><ul><li>Smaller state sizes.</li><li>Large population centers.</li><li>Higher number of deaf residential-based and daytime schools.</li><li>Gallaudet University likely have had a role in creation of deaf communities along the East Coast over time.</li></ul><p>Closing of Deaf residential schools for the Deaf</p><ul><li>Likely have no impact on the student diversity and enrollment at Gallaudet University.</li></ul><p>Formal researches is recommended:</p><ul><li>To determine the impacts of schools for the Deaf closing on university enrollments.</li><li>To study the student populations across the U.S. and identify any possible recruiting gaps.</li></ul>]]></content>
       
@@ -113,6 +113,31 @@
     
     
     <entry>
+      <title>Graduate School/Job Application</title>
+      <link href="/2022/12/14/STM403/GraduateSchoolApplication/"/>
+      <url>/2022/12/14/STM403/GraduateSchoolApplication/</url>
+      
+        <content type="html"><![CDATA[<h3 id="Cover-Letter"><a href="#Cover-Letter" class="headerlink" title="Cover Letter"></a>Cover Letter</h3><p>Interviewer Name<br>800 Florida Ave NE<br>Washington, D.C 20002<br>202-456-7890</p><p>Dear xxx,</p><p>I’m excited to apply for the intern technician position posted on Indeed.com as a semester term intern of the work done by the team at REU AICT. As a BS in Information Technology student at Gallaudet University, I’m confident that my diverse knowledge, experience in coding and problem solving, and meticulous attention to detail will make me an asset to the intern and class/personal project teamwork.</p><p>I assisted several more students in classes and on social media platforms such as StackoverFlow and Github. I was in charge of troubleshooting a wide range of technical issues for others, assisting with unexpected system errors, and installing a wide range of equipment. I was also constantly looking for new ways to learn new skills and gain experience by participating in various activities with people from all walks of life. With these kinds of experiences, I was able to adapt my approach to various problems and situations from various backgrounds, as well as their critical-thinking and ideas that differed from mine.</p><p>I also understand that [Company name] is looking for more interns and experienced employees to help with their production needs. The position of IT technician at [Company’s name] would be an exciting opportunity for me to apply my educational background and learn more about a growing industry.</p><p>I’ve attached my resume, which goes over my skills and educational background in greater detail. If you have any questions about my background and experiences, don’t be hesitate to contact me. Thank you very much for your consideration and time.</p><p>Sincerely.<br>Zehui Liu</p><h3 id="Job-Listing-and-Background-Research"><a href="#Job-Listing-and-Background-Research" class="headerlink" title="Job Listing and Background Research"></a>Job Listing and Background Research</h3><p>Interesting Job Position:</p><ol><li>Summer Technology Internship -Cooperate by GEICO at Chevy Chase, MD:</li><li>IT Systems Specialist Central Office located at Montgomery County Public Schools at Rockville, MD</li><li>Entry Level Developers locate at Mclean, VA of Diamond Pick Company</li><li>US Army Information Technology Specialist (FT) by Goarmy.com Spring Recruiting Center located at Silver Spring, MD</li><li>Entry Level Amazon Connect Engineer by Amazon at Bethesda, MD</li><li>Technical Analyst Internship/Entry Level by CGI Group, INC located at Fairfax, VA</li><li>Operational Compputer Systems Analyst (System Administrator) by National Security Agent located at Fort Meade, MD</li><li>IT Help Desk Analyst by Northern Virginia Community College located at Fairfax County, VA</li><li>Cyber Security Engineer, Enter Level by CGI Group, Inc located at Fairfax, VA</li><li>10 week Intern Program by USPS, work cross-functionally on projects, remotely.</li></ol><p>Summer Technology Internship -Cooperate by GEICO at Chevy Chase, MD:<br>GEICO is an insurance company, and its most popular insurance is auto insurance. With excellent customer service, GEICO has become one of the most popular and favorite insurance companies in the United States, as well as mine. I’ve had a lot of help from the agent with my vehicle issues over the last three years, So I’d like to take advantage of this opportunity to gain experience with their business management system and see how they could use it to serve people so that I can understand work as an entry level or internship developer.<br>A 10-week term internship during the summer of 2023, with the opportunity to take a quick look and view their professional technology solutions management by specialists mentoring and coaching. Individual and team assignments provide an excellent opportunity to develop and gain business-standard technical and project management experience, as well as communication skills. The qualifications are slightly higher than for other intern positions. It did require a cumulative GPA of at least 3.5, as well as the upload of my transcript for verification. Following the coursework, a fundamental understanding of some of the languages such as Java, .NET C#, or related work from a personal/past experience project is required.</p><h3 id="Resume"><a href="#Resume" class="headerlink" title="Resume"></a>Resume</h3><p>/&gt;</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> STM403 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Articles </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>University Mobile Exercise App and Leisure Time Exercise Activity, A Light-Weight Development of the App Concept Design and Evaluation</title>
       <link href="/2022/12/14/STM403/FinalPaper/"/>
       <url>/2022/12/14/STM403/FinalPaper/</url>
@@ -132,31 +157,6 @@
             <tag> Articles </tag>
             
             <tag> Mobile Application </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Graduate School/Job Application</title>
-      <link href="/2022/12/14/STM403/GraduateSchoolApplication/"/>
-      <url>/2022/12/14/STM403/GraduateSchoolApplication/</url>
-      
-        <content type="html"><![CDATA[<h3 id="Cover-Letter"><a href="#Cover-Letter" class="headerlink" title="Cover Letter"></a>Cover Letter</h3><p>Interviewer Name<br>800 Florida Ave NE<br>Washington, D.C 20002<br>202-456-7890</p><p>Dear xxx,</p><p>I’m excited to apply for the intern technician position posted on Indeed.com as a semester term intern of the work done by the team at REU AICT. As a BS in Information Technology student at Gallaudet University, I’m confident that my diverse knowledge, experience in coding and problem solving, and meticulous attention to detail will make me an asset to the intern and class/personal project teamwork.</p><p>I assisted several more students in classes and on social media platforms such as StackoverFlow and Github. I was in charge of troubleshooting a wide range of technical issues for others, assisting with unexpected system errors, and installing a wide range of equipment. I was also constantly looking for new ways to learn new skills and gain experience by participating in various activities with people from all walks of life. With these kinds of experiences, I was able to adapt my approach to various problems and situations from various backgrounds, as well as their critical-thinking and ideas that differed from mine.</p><p>I also understand that [Company name] is looking for more interns and experienced employees to help with their production needs. The position of IT technician at [Company’s name] would be an exciting opportunity for me to apply my educational background and learn more about a growing industry.</p><p>I’ve attached my resume, which goes over my skills and educational background in greater detail. If you have any questions about my background and experiences, don’t be hesitate to contact me. Thank you very much for your consideration and time.</p><p>Sincerely.<br>Zehui Liu</p><h3 id="Job-Listing-and-Background-Research"><a href="#Job-Listing-and-Background-Research" class="headerlink" title="Job Listing and Background Research"></a>Job Listing and Background Research</h3><p>Interesting Job Position:</p><ol><li>Summer Technology Internship -Cooperate by GEICO at Chevy Chase, MD:</li><li>IT Systems Specialist Central Office located at Montgomery County Public Schools at Rockville, MD</li><li>Entry Level Developers locate at Mclean, VA of Diamond Pick Company</li><li>US Army Information Technology Specialist (FT) by Goarmy.com Spring Recruiting Center located at Silver Spring, MD</li><li>Entry Level Amazon Connect Engineer by Amazon at Bethesda, MD</li><li>Technical Analyst Internship/Entry Level by CGI Group, INC located at Fairfax, VA</li><li>Operational Compputer Systems Analyst (System Administrator) by National Security Agent located at Fort Meade, MD</li><li>IT Help Desk Analyst by Northern Virginia Community College located at Fairfax County, VA</li><li>Cyber Security Engineer, Enter Level by CGI Group, Inc located at Fairfax, VA</li><li>10 week Intern Program by USPS, work cross-functionally on projects, remotely.</li></ol><p>Summer Technology Internship -Cooperate by GEICO at Chevy Chase, MD:<br>GEICO is an insurance company, and its most popular insurance is auto insurance. With excellent customer service, GEICO has become one of the most popular and favorite insurance companies in the United States, as well as mine. I’ve had a lot of help from the agent with my vehicle issues over the last three years, So I’d like to take advantage of this opportunity to gain experience with their business management system and see how they could use it to serve people so that I can understand work as an entry level or internship developer.<br>A 10-week term internship during the summer of 2023, with the opportunity to take a quick look and view their professional technology solutions management by specialists mentoring and coaching. Individual and team assignments provide an excellent opportunity to develop and gain business-standard technical and project management experience, as well as communication skills. The qualifications are slightly higher than for other intern positions. It did require a cumulative GPA of at least 3.5, as well as the upload of my transcript for verification. Following the coursework, a fundamental understanding of some of the languages such as Java, .NET C#, or related work from a personal/past experience project is required.</p><h3 id="Resume"><a href="#Resume" class="headerlink" title="Resume"></a>Resume</h3><p>/&gt;</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> STM403 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Articles </tag>
             
         </tags>
       
@@ -377,6 +377,33 @@
     
     
     <entry>
+      <title>Closed Interpreting Accessibility Poster</title>
+      <link href="/2022/07/21/REU/Poster/"/>
+      <url>/2022/07/21/REU/Poster/</url>
+      
+        <content type="html"><![CDATA[<p><img src="/images/REU_CIA/CIA_Poster.jpg"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Accessibility Research </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> PPT Slides </tag>
+            
+            <tag> REU </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Closed Interpreting Accessibility</title>
       <link href="/2022/07/21/REU/FinalPaper/"/>
       <url>/2022/07/21/REU/FinalPaper/</url>
@@ -395,9 +422,9 @@
             
             <tag> Articles </tag>
             
-            <tag> Web Development </tag>
-            
             <tag> REU </tag>
+            
+            <tag> Web Development </tag>
             
         </tags>
       
@@ -406,25 +433,25 @@
     
     
     <entry>
-      <title>Closed Interpreting Accessibility Poster</title>
-      <link href="/2022/07/21/REU/Poster/"/>
-      <url>/2022/07/21/REU/Poster/</url>
+      <title>MS Server Test1</title>
+      <link href="/2022/03/05/MS%20Server/test1/"/>
+      <url>/2022/03/05/MS%20Server/test1/</url>
       
-        <content type="html"><![CDATA[<p><img src="/images/REU_CIA/CIA_Poster.jpg"></p>]]></content>
+        <content type="html"><![CDATA[<h3 id="MAIN"><a href="#MAIN" class="headerlink" title="MAIN"></a>MAIN</h3><p><strong>1. A windows server uses an IP address 36.128.22.234. What is the socket address for the machine’s web server when it allows Secure HTTP connections?</strong><br>The socket is 36.128.22.234:443 where 36.128.22.234 is the IP address and the 443 is the HTTPS port” blue</p><p><strong>2. Which of the following is a private IP address?</strong></p><ul><li>197.28.112.256</li><li>172.22.265.12</li><li>147.123.18.28</li><li><mark class="hl-label blue">10.1.12.213</mark> </li></ul><p><strong>3. What is the main purpose of Dynamic Host Control Protocol (DHCP) on a server? (Explain in your own words giving an example you see when starting and stopping your Google VM. If you copy-paste answers from generic google search no credit is given)</strong></p><p>These features can be added to Microsoft Windows Server through the server roles. On the server roles window, an option shows DHCP Server; according to the description, the aim of using the DHCP is to allow the user to configure, maintain, and distribute temporary IP numbers and other client-side information.”</p><p><strong>4. What is the output of following Power Shell script? Run line by line in Power Shell command line window (NOT Power Shell ISE) and attach a screenshot.</strong></p><figure class="highlight powershell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">cd</span> c:\users\&lt;yourname&gt;\desktop <span class="comment"># should show like C:\Users\danturthi\desktop&gt;</span></span><br><span class="line"><span class="built_in">new-Item</span> abcd.txt</span><br><span class="line"><span class="built_in">Add-Content</span> abcd.txt “This is the first line”</span><br><span class="line"><span class="built_in">Add-Content</span> abcd.txt <span class="literal">-value</span>(<span class="built_in">get-content</span> abcd.txt)</span><br><span class="line"><span class="built_in">write-output</span> “The file contents are:”</span><br></pre></td></tr></table></figure><p><strong>Answer this question - Which of the above commands is unnecessary/Superfluous (can be completely removed) in this particular example to achieve the same output?</strong></p><p><img src="/images/MS/MS-4.png" title="I remove “Add-Content abcd.txt -value(get-content abcd.txt)” because it shows duplicated content in the powershell which is redundant and unnecessary."></p><p><strong>5. In the windows server manager, you want to see the hard disk allocation and the available disk partitions or space. What options do you pick from Windows server manager window? Produce a screenshot on your VM that shows the disks and paste it here.</strong></p><p><img src="/images/MS/MS-5.png" title="Open the Server Manager application, move the pointer to the left sidebar, and look for the File and Storage Services option. Then click the Volumes, available disk partitions and spaces will be display at the center of the screen."></p><p><strong>6. When we do a scan for Best Practices Analyzer (BPA) on Windows Server 2019, what does it indicate for each role configuration?</strong></p><ul><li>A. If the role configuration falls through Microsoft’s control lists</li><li>B. Whether the role configuration violates any existing practices</li><li><mark class="hl-label blue">C. If the role configuration meets Microsoft’s minimum guidelines</mark> </li><li>D. Whether firewall is actually working on the role configuration</li></ul><p><strong>7. A programmer writes code - that is supposed to use a system account, but uses his own account (username and password) to test an application on a development machine. When all development and testing goes well, he transfers the code without any changes to you, the System Administrator (SA). When you deploy the code on production server, the code fails to run and says “incorrect username and password.” As the SA what do you think is the problem and how/what would you advise the programmer to fix the application?</strong></p><p>Before running a test on a production server, applications must modify their username and settings. Even the developer was able to successfully execute the applications on his development PC.</p><p><strong>8. Copy the following code to Power Shell ISE into file okay.ps1, save it and run it. Put your name below for correct path for your VM and Take a screen shot and enclose results of the script here and answer the following questions</strong></p><figure class="highlight powershell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">cd</span> c:\users\&lt;yourname&gt;\desktop <span class="comment"># should be like C:\Users\danturthi\desktop&gt;</span></span><br><span class="line"><span class="built_in">Add-Content</span> myFile.txt <span class="string">&quot;`nName `tQ#1 `tT#1 `tGrade&quot;</span></span><br><span class="line"><span class="built_in">Add-Content</span> myFile.txt <span class="string">&quot;`nDavid `t45 `t110 `t155&quot;</span></span><br><span class="line"><span class="built_in">Add-Content</span> myFile.txt <span class="string">&quot;`nMelissa `t40 `t120 `t160&quot;</span></span><br><span class="line"><span class="built_in">Add-Content</span> myFile.txt <span class="string">&quot;`nRick `t50 `t90 `t140&quot;</span></span><br><span class="line"><span class="built_in">Get-Content</span> myFile.txt | <span class="built_in">select-string</span> <span class="string">&#x27;a&#x27;</span>| <span class="built_in">write-output</span></span><br></pre></td></tr></table></figure><p><img src="/images/MS/MS-8.png"></p><ul><li><p><strong>(i) Explain what the “ select-string ‘a’ “ is doing</strong><br>select-string ‘a’ (Select all the string values that included the letter ”a” from the file named “myFile.txt”) |write-output (output the selected string values and display on the screen from the powershell)</p></li><li><p><strong>(ii) What are the characters “ <code>t “ and “ </code>n “ doing in the power shell script?</strong><br>“<code>t“ means horizontal tab and “</code>n” means make a new line.</p></li><li><p><strong>(iii) What happens if you remove all the “ `n “ characters from power shell script?</strong><br>Powershell does not add any new lines to the output.</p></li></ul><p><img src="/images/MS/MS-8_2.png"></p><div class="note modern warning simple"><p>NOTE: The character before “n” and “t” is the backtick (next to numeric 1)</p></div><p><strong>9. On VM you open the command prompt in Power Shell window and execute the following command (If IIS is not installed, go to control panel -&gt; programs and features and -&gt; install Internet Information Server)</strong></p><figure class="highlight powershell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">get-nettcpconnection</span> <span class="literal">-Localport</span> <span class="number">56</span></span><br><span class="line">and you notice you are getting an error. Replace the port <span class="number">56</span> with <span class="number">80</span> and run again.</span><br><span class="line">Now run this command: netstat <span class="literal">-an</span> | <span class="built_in">select-string</span> <span class="number">80</span></span><br></pre></td></tr></table></figure><p><strong>What do you conclude from the results of these three commands about ports 56 and 80? (Attach a screen shot)</strong></p><p>After installed the IIS in the VM, I am unable to get the TCP connection and view its property when I attempt the connection of localport 56 because this port could not be found. However, I am able to see the tcp connection of port 80, and its status is listening, also some established tcp connections.</p><p><img src="/images/MS/MS-9.png"></p><p><strong>10. Stateful Packet Inspection (SPI) of a firewall is used for examining packets as they move in and out of a network.</strong><br><strong>What is the main focus of SPI?</strong><br>SPI mainly focused on connections</p><p><strong>What are rules SPI implements for internal and external connections?</strong><br>Internally connection allow by default and externally connection prohibit by default.</p><ol start="11"><li>From the VM, choose google SDK command line interpreter and execute the following commands:</li></ol><figure class="highlight cmd"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">gsutil du c:</span><br><span class="line">gsutil du gs://&lt;your bucketname&gt;</span><br><span class="line">gsutil du</span><br></pre></td></tr></table></figure><p><strong>Take a screen shot of the results (individually or together)and explain what it is displaying. NOTE: These commands may not work on Power Shell or DOS window</strong></p><p><img src="/images/MS/MS-11.png"></p><p><strong>12. What three kinds of rules can you set up with Windows Defender Firewall on the Windows Server 2019 (Google Virtual Machine)?</strong></p><ul><li>(1) Inbound Rules</li><li>(2) Outbound Rules</li><li>(3) Connection Security Rules</li></ul><p><strong>13. Open Google VM server in remote desktop, choose run and enter the following – Sigverif in the run window. When it shows the actual application, run it and click “Start” on the application. When it is finished, attach the resulting log file contents to this test (add another page, if required)</strong></p><p><img src="/images/MS/MS-13.png" title="Here is the screenshot of the log file after finishing the scan."></p><p><strong>14. When a firewall examines packets as a part of stateful packet inspection logic, what are the two main categories a packet state can fall into?</strong></p><ul><li>A. Packets opening connections and packets closing connections for data move</li><li>B. Packets trying to send data and packets trying to receive data from connections</li><li><mark class="hl-label blue">C. Packets trying to open connections and packets not trying to open connections</mark> </li><li><mark class="hl-label blue">D. Packets that are static with same IP and packets that are dynamic with variable IP</mark> </li></ul><p><strong>15. Your Network/Server has a border firewall to block/deny any suspicious attack packets. Besides blocking the packets, what must the firewall do for the system administrator?</strong></p><p>Firewall not just only process the regular check to block packages, but also can drop and update logs, caution the SA if there is any suspicious action appear</p><h3 id="BONUS"><a href="#BONUS" class="headerlink" title="BONUS"></a>BONUS</h3><p><strong>16. Your firewall has a 276 rules you created in addition to the default rule to examine and allow or deny packets. As a System Administrator you are given the job of arranging these access control rules in a numerical list known as Access Control List (ACL).</strong></p><p><strong>A. Which rule will be your first rule and which rule will be your last rule in the ACL? (Just mention how you pick the first rule and last rule and on what criteria).</strong><br>The first rule will be creating a set of rules that the firewall may use to monitor various packages as the priority. The default rule usually will be the last execution in the rules list.</p><p><strong>B. What happens if you swap (exchange) the first rule to the last?</strong><br>Swapping the rule to the default rule first may not be a smart idea since if the default rule is successful, the rest of the rules will not be executed.</p>]]></content>
       
       
       <categories>
           
-          <category> Accessibility Research </category>
+          <category> MS Server </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> REU </tag>
+            <tag> Exams </tag>
             
-            <tag> PPT Slides </tag>
+            <tag> Code </tag>
             
         </tags>
       
